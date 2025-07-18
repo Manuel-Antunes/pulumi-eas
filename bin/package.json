@@ -1,5 +1,5 @@
 {
-    "name": "@pulumi/eas",
+    "name": "@lisbom/eas",
     "version": "1.17.1",
     "description": "A Pulumi provider dynamically bridged from eas.",
     "repository": "https://github.com/fintreal/terraform-provider-eas",
